@@ -1,6 +1,7 @@
 # dice
 
 A new Flutter project.
+![Dice-screenshot](https://github.com/Rashmina2000/Dice_flutter-app/assets/131146632/9f946342-a7e1-47f6-997c-b321f58f9bb9)
 
 ## Getting Started
 
